@@ -2,7 +2,7 @@
 
 A quiz game where **every answer is wrong** — that's the whole joke. Pick a topic, get a real question, choose from four plausible-but-incorrect answers, and enjoy a witty explanation of why your pick was wrong. (They all were.)
 
-**Live demo:** `[your-replit-url-here]`
+**Live demo:** https://drenhoda.github.io/wrong-answers-only/
 
 ---
 
