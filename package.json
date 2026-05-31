@@ -1,0 +1,13 @@
+{
+  "name": "wrong-answers-only",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest",
+    "dotenv": "latest",
+    "express": "latest"
+  }
+}
